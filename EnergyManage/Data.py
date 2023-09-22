@@ -11,9 +11,9 @@ class NameWord(object):
 
 class ApiUrl(object):
 
-    login_url = 'http://192.168.42.245/tool/api/login'  # 登录API
-    day_total_energy_url = 'http://192.168.42.245/tool/api/site/component/energy/statistics/total'  # 今日总计用能API
-    energy_analysis_url = 'http://192.168.42.245/tool/api/site/energy/networkGraph/data/time/analysis'  # 分时/日/年能耗分析URL
+    login_url = 'http://xxxxx/tool/api/login'  # 登录API
+    day_total_energy_url = 'http://xxxxx/tool/api/site/component/energy/statistics/total'  # 今日总计用能API
+    energy_analysis_url = 'http://xxxx/tool/api/site/energy/networkGraph/data/time/analysis'  # 分时/日/年能耗分析URL
 
 
 class JsonFile(object):
