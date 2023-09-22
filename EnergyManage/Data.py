@@ -5,8 +5,8 @@ import os
 
 class NameWord(object):
 
-    username = 'zm'
-    password = '123456'
+    username = 'xx'
+    password = 'xxx'
 
 
 class ApiUrl(object):
